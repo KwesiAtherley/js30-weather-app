@@ -3,7 +3,7 @@ The fourth project in my #js30 challenge. A small weather app that covers the fo
 - The safest way to store API keys
 - How to consume Google APIs
 - How to consume the DarkSky API
-- How to user axios
+- How to use axios
 
 
 This project was built using a tutorial that can be found here -
